@@ -1,0 +1,381 @@
+{
+  "personal": {
+    "name": "Shreyans Jain",
+    "title": "Senior Full-Stack Developer",
+    "subtitle": "Passionate about building scalable applications with cutting-edge technologies. Experienced in TypeScript, React, Node.js, and Flutter with a focus on clean architecture and performance optimization.",
+    "email": "shreyans1313@gmail.com",
+    "phone": "+91 7004407830",
+    "location": "Bengaluru, Karnataka, India - 560066",
+    "bio": "Experienced full-stack developer with expertise in TypeScript, React, Node.js, and Flutter. Passionate about technical leadership, architecture decision-making, and mentoring development teams.",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "icon": "💼",
+        "url": "https://linkedin.com/in/shreyans13",
+        "displayName": "shreyans13"
+      },
+      {
+        "platform": "Email",
+        "icon": "📧",
+        "url": "mailto:shreyans1313@gmail.com",
+        "displayName": "shreyans1313@gmail.com"
+      },
+      {
+        "platform": "GitHub",
+        "icon": "📱",
+        "url": "https://github.com/shreyans13",
+        "displayName": "shreyans13"
+      },
+      {
+        "platform": "Twitter",
+        "icon": "🐦",
+        "url": "https://twitter.com/shreyans13",
+        "displayName": "@shreyans13"
+      }
+    ],
+    "skills": {
+      "languages": ["TypeScript", "JavaScript (ES6+)", "Node.js", "Dart", "Python", "C++", "Rust", "Go", "HTML5", "CSS3"],
+      "frontend": ["React", "Vue.js", "Next.js", "Flutter", "Vuetify", "ShadCN/UI", "Bootstrap"],
+      "backend": ["Express.js", "RESTful API design", "Firebase Functions"],
+      "database": ["MongoDB", "MySQL", "NoSQL"],
+      "devops": ["Git (GitHub, Bitbucket)", "Vim", "VS Code", "Android Studio"],
+      "tools": ["Swagger", "Postman", "Jira", "Kibana", "PG-WEB"],
+      "softSkills": ["Technical Leadership", "Architecture Decision-Making", "Mentorship", "Cross-Team Communication", "Agile Planning", "Code Review & Governance"]
+    }
+  },
+  "experience": [
+    {
+      "id": 1,
+      "jobTitle": "Software Development Engineer 1",
+      "company": "Juspay Technologies Private Limited",
+      "period": "January 2025 - Present",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Leading the complete refactor and optimization of the Themis Lender BRE (Business Rule Engine) and architecting scalable solutions for the lending platform.",
+      "achievements": [
+        "Led the complete refactor and optimization of the Themis Lender BRE using TypeScript, resulting in a 50% increase in product stability, performance, and enhanced developer experience",
+        "Architected and developed a scalable Lender Dashboard to manage interactions with multiple lenders, enabling efficient configuration of loan criteria and business rules—contributing to a 20% improvement in loan approval accuracy",
+        "Created a pluggable BRE rules framework to support diverse loan journeys, reducing custom logic duplication by 60% and enabling unified governance across thousands of business rules",
+        "Improved API performance by 40% through the implementation of advanced caching strategies and backend optimization techniques",
+        "Delivered a centralized rule management platform that simplified rule creation, modification, approval, and analytics—boosting lender operational efficiency and decision-making speed",
+        "Re-architected the SDK into a monorepo structure, improving modularity, reducing frontend load times by 22%, and streamlining integration and maintenance processes",
+        "Replaced legacy flow system with modular flow architecture, cutting deployment complexity and reducing rollout times from 4 days to 2.5 days, enabling 30% faster feature delivery",
+        "Streamlined merchant configuration by introducing feature toggles and auto-propagating settings, reducing config size by 60% and removing the need for 90% of hotfix release cycles"
+      ],
+      "technologies": ["TypeScript", "React", "Node.js", "MongoDB", "Webpack", "RESTful APIs", "Monorepo", "Business Rule Engine"],
+      "highlights": [
+        "System architecture design",
+        "Performance optimization",
+        "Business rule engine development",
+        "SDK architecture",
+        "Deployment optimization"
+      ]
+    },
+    {
+      "id": 2,
+      "jobTitle": "Product Engineer",
+      "company": "Juspay Technologies Private Limited",
+      "period": "August 2023 - December 2024",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Managed the enhancement of the Juspay Loan Marketplace at Juspay CREDIT, delivering scalable product solutions and optimizing system performance.",
+      "achievements": [
+        "Managed the enhancement of the Juspay Loan Marketplace at Juspay CREDIT, delivering scalable product solutions, optimizing system performance by 30%, and improving user experience across multiple lender integrations",
+        "Implemented bundle splitting using Webpack and code compression with Brotli, resulting in a 30% reduction in bundle size and a significant decrease in time to render the first screen",
+        "Transitioned from PR-level contributions to leading repository management, establishing version control practices and improving team delivery by 25%",
+        "Resolved 15+ production issues through root cause analysis and implementation of preventive measures, ensuring 99.9% uptime for products and services",
+        "Revamped website flows and merchant/lender flows, reducing the frequency of misdirected user service queries by 30%"
+      ],
+      "technologies": ["React", "JavaScript", "Webpack", "Brotli", "Git", "RESTful APIs", "Performance Optimization"],
+      "highlights": [
+        "Product development",
+        "Performance optimization",
+        "Repository management",
+        "Production issue resolution",
+        "User experience improvement"
+      ]
+    },
+    {
+      "id": 3,
+      "jobTitle": "Technical Product Analyst - 1",
+      "company": "Juspay Technologies Private Limited",
+      "period": "January 2022 - August 2023",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Transitioned to a full-time role post-internship due to consistent delivery and initiative. Developed the design and development of the Hyper Credit Loan Journey MVP.",
+      "achievements": [
+        "Transitioned to a full-time role post-internship due to consistent delivery and initiative. Developed the design and development of the Hyper Credit Loan Journey MVP, resulting in a production-ready flow that now supports 10K+ user sessions monthly",
+        "Led the comprehensive onboarding of lenders and merchants into the frontend systems, significantly improving application functionality and user experience this integration leading to a 30% increase in loan approvals",
+        "Executed time-sensitive initiatives to navigate challenging merchant lender issues, ensuring on-time resolution; resolving 20% of loan payment discrepancies"
+      ],
+      "technologies": ["React", "JavaScript", "Frontend Development", "User Experience", "Integration"],
+      "highlights": [
+        "MVP development",
+        "Lender/merchant integration",
+        "Issue resolution",
+        "User experience optimization"
+      ]
+    },
+    {
+      "id": 4,
+      "jobTitle": "Technical Product Analyst Intern",
+      "company": "Juspay Technologies Private Limited",
+      "period": "May 2021 - December 2021",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Completed functional programming training and provided guidance to other interns while contributing to production code.",
+      "achievements": [
+        "Completed 3-month functional programming training in Haskell and PureScript, applying concepts in production code and improving module test coverage by 25% through more declarative, type-safe implementations",
+        "Provided guidance and support to other interns, helping them understand the codebase which increased productivity by 20%"
+      ],
+      "technologies": ["Haskell", "PureScript", "Functional Programming", "Testing", "Mentorship"],
+      "highlights": [
+        "Functional programming",
+        "Test coverage improvement",
+        "Mentorship",
+        "Production code contribution"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Havo Backend",
+      "icon": "🎤",
+      "description": "The Node.js backend for the mobile application serves a noble purpose by empowering individuals who are unable to speak. Through the integration of a Machine Learning Library, it enables the conversion of handwritten text into speech, allowing users to save their daily conversations in the form of phrases.",
+      "longDescription": "Havo Backend is a Node.js application designed to help individuals with speech disabilities. The system integrates machine learning capabilities to convert handwritten text into speech, enabling users to communicate more effectively. Users can save and manage their daily conversations as phrases for quick access.",
+      "technologies": ["Node.js", "Express.js", "REST API", "ES5+ JavaScript", "EJS", "MongoDB", "Swagger"],
+      "features": [
+        "Handwritten text to speech conversion",
+        "Machine learning integration",
+        "Phrase management system",
+        "RESTful API architecture",
+        "Swagger documentation"
+      ],
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "watchers": 0,
+        "downloads": 0
+      },
+      "links": {
+        "demo": "#",
+        "github": "#",
+        "documentation": "#"
+      },
+      "status": "active",
+      "category": "web-development"
+    },
+    {
+      "id": 2,
+      "title": "Eats",
+      "icon": "🍕",
+      "description": "Built a responsive UI/UX frontend for a food delivery application inspired by real-world use cases. The application features intuitive navigation for browsing restaurants, viewing menus, and placing orders, with a focus on mobile-first design, component reusability, and seamless user experience across devices.",
+      "longDescription": "Eats is a comprehensive food delivery application frontend built with Vue.js and Vuetify. The application provides an intuitive interface for users to browse restaurants, view detailed menus, and place orders seamlessly. The design prioritizes mobile-first approach with responsive components that work across all devices.",
+      "technologies": ["Vue.js", "Vuetify", "JavaScript", "Material Design"],
+      "features": [
+        "Responsive UI/UX design",
+        "Restaurant browsing interface",
+        "Menu viewing and ordering system",
+        "Mobile-first design approach",
+        "Component reusability"
+      ],
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "watchers": 0,
+        "downloads": 0
+      },
+      "links": {
+        "demo": "#",
+        "github": "#",
+        "documentation": "#"
+      },
+      "status": "active",
+      "category": "web-development"
+    },
+    {
+      "id": 3,
+      "title": "Github Profile Finder",
+      "icon": "🔍",
+      "description": "Created a Flutter-based cross-platform mobile application that integrates with GitHub's API to provide users with a seamless and intuitive interface for exploring GitHub profiles.",
+      "longDescription": "Github Profile Finder is a cross-platform mobile application built with Flutter that allows users to search and explore GitHub profiles. The app integrates with GitHub's API to fetch user data, repositories, and other profile information, providing a native mobile experience for GitHub profile exploration.",
+      "technologies": ["Flutter", "GitHub API", "Dart", "Cross-platform Development"],
+      "features": [
+        "GitHub profile search",
+        "Cross-platform compatibility",
+        "GitHub API integration",
+        "Native mobile experience",
+        "Profile data visualization"
+      ],
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "watchers": 0,
+        "downloads": 0
+      },
+      "links": {
+        "demo": "#",
+        "github": "#",
+        "documentation": "#"
+      },
+      "status": "active",
+      "category": "mobile-development"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Engineering, Computer Science Engineering",
+      "institution": "Chandigarh University, University Institute of Engineering",
+      "period": "2018 - 2022",
+      "location": "Chandigarh, India",
+      "graduationDate": "July 2022",
+      "relevantCourses": [
+        "Data Structures and Algorithms",
+        "Software Engineering",
+        "Database Management Systems",
+        "Object-Oriented Programming",
+        "Web Development",
+        "Computer Networks",
+        "Operating Systems",
+        "Software Testing"
+      ],
+      "achievements": [
+        "Completed degree in Computer Science Engineering",
+        "Gained foundational knowledge in software development",
+        "Developed problem-solving and analytical skills"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Namaste React",
+      "issuer": "NamasteDev.com",
+      "date": "March 2024",
+      "expiry": "March 2027",
+      "credentialId": "Namaste-React-2024",
+      "skills": ["React.js", "Next.js", "Redux.js", "Ant Design", "Tailwind CSS", "Webpack", "Babel.js", "React Native", "SASS", "MERN Stack", "Full-Stack Development"]
+    },
+    {
+      "id": 2,
+      "name": "Flutter & Firebase",
+      "issuer": "Udemy",
+      "date": "February 2024",
+      "credentialId": "UC-220f45fd-bfae-48fe-82e6-5430b2cb255e",
+      "skills": ["Flutter", "Firebase", "Cloud Firestore", "API Development", "Full-Stack Development", "User Interface Design"]
+    },
+    {
+      "id": 3,
+      "name": "Algorithmic Toolbox",
+      "issuer": "Coursera",
+      "date": "April 2021",
+      "credentialId": "87T3A79L8AQ7",
+      "skills": ["Algorithms", "Problem Solving", "Programming", "Debugging", "API Development"]
+    },
+    {
+      "id": 4,
+      "name": "Production-Grade Vue.js",
+      "issuer": "Frontend Masters",
+      "date": "April 2021",
+      "credentialId": "FrontendMasters-Vue-Prod",
+      "skills": ["Vue.js", "Vuex", "Vuetify", "Tailwind CSS", "Webpack", "Full-Stack Development", "User Interface Design"]
+    },
+    {
+      "id": 5,
+      "name": "Vue 3 Fundamentals",
+      "issuer": "Frontend Masters",
+      "date": "March 2021",
+      "credentialId": "FrontendMasters-Vue3-Fundamentals",
+      "skills": ["Vue 3", "JavaScript Frameworks", "Babel.js", "Front-End Development", "API Development"]
+    },
+    {
+      "id": 6,
+      "name": "Problem Solving (Basic) Certificate",
+      "issuer": "HackerRank",
+      "date": "September 2020",
+      "credentialId": "bf45f29ea15a",
+      "skills": ["Problem Solving", "Programming", "Debugging", "Algorithmic Thinking"]
+    },
+    {
+      "id": 7,
+      "name": "Server-side Development with NodeJS, Express and MongoDB",
+      "issuer": "Coursera",
+      "date": "July 2020",
+      "credentialId": "YWSZEUK6ZTKW",
+      "skills": ["Node.js", "Express.js", "MongoDB", "MERN Stack", "API Development", "Full-Stack Development", "Web Applications"]
+    },
+    {
+      "id": 8,
+      "name": "Version Control with Git",
+      "issuer": "Coursera",
+      "date": "June 2020",
+      "credentialId": "L7XGNXK2V6JY",
+      "skills": ["Git", "Version Control", "Unit Testing", "Debugging", "Programming"]
+    },
+    {
+      "id": 9,
+      "name": "The Web Developer Bootcamp",
+      "issuer": "Udemy",
+      "date": "May 2020",
+      "credentialId": "UC-4385ddae-69af-4b92-8e02-6e8324dc6543",
+      "skills": ["HTML5", "Bootstrap", "DOM", "React.js", "Webpack", "Babel.js", "SASS", "Full-Stack Development", "Web Design", "User Interface Design"]
+    }
+  ],
+  "awards": [
+    {
+      "id": 1,
+      "title": "Best Developer Award",
+      "organization": "TechForward Inc.",
+      "date": "2023",
+      "description": "Recognized for exceptional technical leadership and innovation in developing cloud-native applications."
+    },
+    {
+      "id": 2,
+      "title": "Open Source Contributor of the Year",
+      "organization": "GitHub",
+      "date": "2022",
+      "description": "Awarded for significant contributions to open-source projects and the developer community."
+    }
+  ],
+  "interests": [
+    "Open Source Development",
+    "Machine Learning & AI",
+    "Cloud Architecture",
+    "DevOps & Automation",
+    "Technical Writing",
+    "Mentoring & Teaching"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "Intermediate"
+    }
+  ],
+      "config": {
+      "theme": {
+        "primaryColor": "#64ffda",
+        "secondaryColor": "#00b4d8",
+        "backgroundColor": "#0a0a0a",
+        "textColor": "#ffffff",
+        "accentColor": "#8892b0"
+      },
+      "contact": {
+        "email": "shreyans1313@gmail.com",
+        "phone": "+91 7004407830",
+        "location": "Bengaluru, Karnataka, India - 560066",
+        "availability": "Available for new opportunities"
+      },
+      "seo": {
+        "title": "Shreyans Jain - Senior Full-Stack Developer",
+        "description": "Experienced full-stack developer specializing in TypeScript, React, Node.js, and Flutter. Building scalable applications with focus on clean architecture and performance optimization.",
+        "keywords": ["full-stack developer", "typescript", "react", "node.js", "flutter", "javascript", "mongodb", "express.js"],
+        "author": "Shreyans Jain"
+      }
+    }
+} 
